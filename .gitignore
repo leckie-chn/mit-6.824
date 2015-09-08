@@ -1,2 +1,8 @@
 api.key
 *-handin.tar.gz
+bin/
+pkg/
+src/9fans.net
+src/github.com
+src/golang.org
+src/tags
